@@ -1,5 +1,6 @@
 # My_bro
 My_bro is a 2-D Platformer created using the Godot game engine. The game is coded using GDscript with numerous assets for styling purposes.
+![Capture](https://user-images.githubusercontent.com/50188535/117392052-1a101d80-aea6-11eb-8966-e459dccd4748.PNG)
 
 ## Installation
 If you use Godot you can clone this repo and open the project folder to have access to all scripts and files
